@@ -1,0 +1,109 @@
+     datum                       team1                       team2 uitslag scheidsrechter
+22-06-2022      Sliedrecht Sport Heren                  VV Usquert     0-3         de Kok
+22-06-2022                   VV Vianen                      VoCASA     1-3     Vastenhouw
+22-06-2022                Lollum Heren                  VV Usquert     2-3      Scheffers
+22-06-2022            Ontario Matadors                         NVC     0-3      Scheffers
+22-06-2022                      VoCASA     Zevenbergen Sport Heren     3-1         de Kok
+22-06-2022      Sliedrecht Sport Heren                    RECO ZVH     1-3      Scheffers
+22-06-2022                   VV Vianen                Zuidbroek VC     0-3    van Bovenen
+22-06-2022                         NVC                 Advisie-SSS     3-2         de Kok
+22-06-2022                  VV Usquert                Lollum Heren     3-1       van Este
+22-06-2022 Talententeam Papendal Heren     Zevenbergen Sport Heren     2-3    van de Wiel
+23-06-2022                   VV Vianen                         NVC     3-2         de Kok
+23-06-2022            Amysoft Lycurgus                Lollum Heren     2-3     Vastenhouw
+23-06-2022      Sliedrecht Sport Heren                Clinge Heren     2-3      Scheffers
+23-06-2022     Zevenbergen Sport Heren                 Advisie-SSS     3-0      Scheffers
+23-06-2022 Talententeam Papendal Heren                         NVC     3-2    van de Wiel
+24-06-2022                      VoCASA                  VV Usquert     1-3    Frankhuizen
+24-06-2022                         NVC                Zuidbroek VC     3-2     Vastenhouw
+24-06-2022                 VV Zevenaar             Northeast Force     3-2     Vastenhouw
+24-06-2022                Lollum Heren                   VV Vianen     2-3         de Kok
+24-06-2022      Sliedrecht Sport Heren                   VV Vianen     2-3    van de Wiel
+25-06-2022 Talententeam Papendal Heren                    LA Blaze     2-3    Frankhuizen
+25-06-2022                Zuidbroek VC                   VV Vianen     3-1       Thatcher
+25-06-2022                Bergharen VC           VC Kornwerderzand     3-2       van Este
+25-06-2022                Clinge Heren                Bergharen VC     0-3         de Kok
+25-06-2022                Zuidbroek VC                  VV Usquert     3-2       Korstman
+25-06-2022            Ontario Matadors              VV Haskerhorne     0-3       van Este
+25-06-2022                         NVC             Northeast Force     2-3       van Este
+25-06-2022                Lollum Heren                    LA Blaze     3-1      Scheffers
+25-06-2022                    RECO ZVH                Bergharen VC     3-0      Scheffers
+26-06-2022      Sliedrecht Sport Heren                      VoCASA     0-3     Vastenhouw
+26-06-2022                Zuidbroek VC      Sliedrecht Sport Heren     3-2    van Bovenen
+26-06-2022                Bergharen VC                Lollum Heren     3-1      Scheffers
+26-06-2022                 Advisie-SSS                         NVC     3-1    Frankhuizen
+27-06-2022           VC Kornwerderzand            Amysoft Lycurgus     0-3       Korstman
+27-06-2022     Zevenbergen Sport Heren                      VoCASA     3-2    Frankhuizen
+27-06-2022                   VV Vianen Talententeam Papendal Heren     3-2     Vastenhouw
+28-06-2022            Ontario Matadors            Amysoft Lycurgus     1-3      Bouthoorn
+28-06-2022                   VV Vianen                Bergharen VC     3-2    Frankhuizen
+28-06-2022            Ontario Matadors           VC Kornwerderzand     3-0       Korstman
+28-06-2022                Zuidbroek VC     Zevenbergen Sport Heren     3-0    van Bovenen
+28-06-2022                 VV Zevenaar                    LA Blaze     0-3       Korstman
+29-06-2022                Zuidbroek VC           VC Kornwerderzand     2-3       van Este
+29-06-2022                         NVC              VV Haskerhorne     1-3     Vastenhouw
+29-06-2022                      VoCASA                   VV Vianen     1-3     Vastenhouw
+29-06-2022                         NVC                    RECO ZVH     1-3       van Este
+29-06-2022                Lollum Heren             Northeast Force     3-1      Scheffers
+29-06-2022             Northeast Force                  VV Usquert     1-3         de Kok
+29-06-2022                         NVC     Zevenbergen Sport Heren     1-3    van Bovenen
+29-06-2022 Talententeam Papendal Heren                Lollum Heren     3-1       Korstman
+29-06-2022                    LA Blaze      Sliedrecht Sport Heren     2-3      Bouthoorn
+30-06-2022                    RECO ZVH                Clinge Heren     3-0      Bouthoorn
+30-06-2022                 Advisie-SSS              VV Haskerhorne     0-3       Korstman
+30-06-2022            Amysoft Lycurgus     Zevenbergen Sport Heren     2-3    Frankhuizen
+30-06-2022            Ontario Matadors                 Advisie-SSS     3-0       van Este
+30-06-2022            Ontario Matadors                Zuidbroek VC     1-3    van Bovenen
+30-06-2022              VV Haskerhorne                Lollum Heren     3-0         de Kok
+30-06-2022                Clinge Heren     Zevenbergen Sport Heren     3-0      Scheffers
+30-06-2022                      VoCASA                    LA Blaze     3-1       Korstman
+30-06-2022              VV Haskerhorne                    RECO ZVH     1-3    Frankhuizen
+01-07-2022     Zevenbergen Sport Heren             Northeast Force     3-1    van Bovenen
+01-07-2022           VC Kornwerderzand                   VV Vianen     0-3       Korstman
+01-07-2022              VV Haskerhorne     Zevenbergen Sport Heren     3-0       van Este
+01-07-2022                  VV Usquert     Zevenbergen Sport Heren     0-3      Bouthoorn
+02-07-2022             Northeast Force                         NVC     3-2         de Kok
+02-07-2022                    LA Blaze                Lollum Heren     3-2    van Bovenen
+02-07-2022      Sliedrecht Sport Heren                 Advisie-SSS     2-3     Vastenhouw
+02-07-2022     Zevenbergen Sport Heren                Zuidbroek VC     2-3       Korstman
+02-07-2022 Talententeam Papendal Heren      Sliedrecht Sport Heren     3-0         de Kok
+02-07-2022 Talententeam Papendal Heren            Amysoft Lycurgus     2-3    van Bovenen
+02-07-2022 Talententeam Papendal Heren                Zuidbroek VC     1-3       Korstman
+02-07-2022                    RECO ZVH                  VV Usquert     2-3         de Kok
+02-07-2022                  VV Usquert                 Advisie-SSS     2-3       van Este
+02-07-2022                      VoCASA                         NVC     3-0       Korstman
+02-07-2022                Lollum Heren            Ontario Matadors     3-0       Korstman
+03-07-2022              VV Haskerhorne                 Advisie-SSS     3-1      Bouthoorn
+03-07-2022             Northeast Force                 Advisie-SSS     2-3       Thatcher
+03-07-2022                Clinge Heren                Lollum Heren     2-3         de Kok
+03-07-2022                         NVC                   VV Vianen     1-3       Korstman
+03-07-2022                  VV Usquert             Northeast Force     0-3       van Este
+03-07-2022                      VoCASA              VV Haskerhorne     0-3      Scheffers
+03-07-2022           VC Kornwerderzand Talententeam Papendal Heren     3-0      Bouthoorn
+04-07-2022                  VV Usquert                 VV Zevenaar     3-2    Frankhuizen
+04-07-2022                 VV Zevenaar                Bergharen VC     1-3       van Este
+05-07-2022            Amysoft Lycurgus             Northeast Force     3-0       Korstman
+05-07-2022              VV Haskerhorne                   VV Vianen     0-3       Korstman
+05-07-2022            Amysoft Lycurgus                Bergharen VC     3-2         de Kok
+06-07-2022              VV Haskerhorne                  VV Usquert     1-3      Bouthoorn
+06-07-2022      Sliedrecht Sport Heren                 VV Zevenaar     0-3       van Este
+06-07-2022                    LA Blaze             Northeast Force     3-0       Korstman
+06-07-2022           VC Kornwerderzand             Northeast Force     3-1    Frankhuizen
+06-07-2022            Amysoft Lycurgus                   VV Vianen     1-3     Vastenhouw
+06-07-2022                Clinge Heren             Northeast Force     3-2     Vastenhouw
+06-07-2022             Northeast Force                Clinge Heren     3-1       van Este
+06-07-2022             Northeast Force                      VoCASA     3-2    Frankhuizen
+06-07-2022                Clinge Heren                 Advisie-SSS     2-3      Bouthoorn
+06-07-2022                   VV Vianen            Ontario Matadors     3-1    van de Wiel
+06-07-2022                 Advisie-SSS                   VV Vianen     3-2         de Kok
+06-07-2022     Zevenbergen Sport Heren                Lollum Heren     3-1    van de Wiel
+07-07-2022              VV Haskerhorne                         NVC     0-3    van Bovenen
+07-07-2022 Talententeam Papendal Heren                Clinge Heren     3-0    van Bovenen
+07-07-2022                Clinge Heren                Zuidbroek VC     3-2      Scheffers
+07-07-2022                Lollum Heren                Clinge Heren     2-3         de Kok
+07-07-2022           VC Kornwerderzand      Sliedrecht Sport Heren     3-0    van Bovenen
+07-07-2022                   VV Vianen                    LA Blaze     0-3       Korstman
+07-07-2022           VC Kornwerderzand                Clinge Heren     0-3    Frankhuizen
+07-07-2022                Lollum Heren                    RECO ZVH     2-3     Vastenhouw
+07-07-2022     Zevenbergen Sport Heren                 VV Zevenaar     0-3      Scheffers
+07-07-2022                    RECO ZVH            Ontario Matadors     2-3      Scheffers

@@ -1,0 +1,6 @@
+     datum                   team1                   team2 uitslag scheidsrechter  overtredingen
+30-06-2022             Advisie-SSS Zevenbergen Sport Heren     3-2         de Kok             97
+28-06-2022 Zevenbergen Sport Heren            Clinge Heren     3-2       Korstman             88
+25-06-2022                LA Blaze          VV Haskerhorne     2-3      Scheffers             88
+30-06-2022        Ontario Matadors             VV Zevenaar     0-3         de Kok             88
+29-06-2022            Zuidbroek VC         Northeast Force     3-0       Korstman             80
