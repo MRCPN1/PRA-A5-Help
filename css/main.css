@@ -140,6 +140,8 @@ pre {
     font-family: 'Roboto Mono', monospace;
     font-size: 0.9rem;
     margin-top: 0.9rem;
+   text-indent: -15rem;
+
 }
 
 .box{
@@ -176,7 +178,6 @@ p.number{
     font-size: 2rem;
 }
     
-}
 
 pre{
     font-family: 'Roboto Mono';

@@ -1,4 +1,4 @@
-     datum                       team1                       team2 uitslag scheidsrechter
+datum                            team1                       team2  uitslag scheidsrechter
 22-06-2022      Sliedrecht Sport Heren                  VV Usquert     0-3         de Kok
 22-06-2022                   VV Vianen                      VoCASA     1-3     Vastenhouw
 22-06-2022                Lollum Heren                  VV Usquert     2-3      Scheffers
